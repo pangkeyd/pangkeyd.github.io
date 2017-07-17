@@ -12,4 +12,4 @@ This web using HTML tags such as:
 * img
 * footer
 
-Halo saya *daniel alexander pangkey*, bisa dipanggil daniel, alex, pangkeh, pangkey. yang mana aja bisa. Saya pernah belajar front end back end tapi hanya tau basic aja. Saya juga punya website pribadi di www.dpangkey.com. Jadi motivasi untuk masuk di Hacktiv8 itu untuk mempelajari lebih dalam lagi ke dunia Programming. Terima kasih
+Halo saya **daniel alexander pangkey**, bisa dipanggil daniel, alex, pangkeh, pangkey. yang mana aja bisa. Saya pernah belajar front end back end tapi hanya tau basic aja. Saya juga punya website pribadi di www.dpangkey.com. Jadi motivasi untuk masuk di Hacktiv8 itu untuk mempelajari lebih dalam lagi ke dunia Programming. Terima kasih
