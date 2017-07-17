@@ -1,0 +1,120 @@
+* {
+	margin: 0;
+	padding: 0
+}
+
+/* HEADER */
+
+@font-face {
+	font-family: gunrunner;
+	src: url(../font/gunrunner.ttf);
+}
+
+header {
+	height: 400px;
+	background-image: url('../img/bgs.jpg');
+	background-size: 100%;
+	background-position: center top;
+	text-align: center;
+	padding-top: 60px;
+}
+
+header img {
+	width: 130px;
+    border-radius: 50%;
+    margin-top: 50px;
+    border: 3px solid white;
+}
+
+header h2 {
+	color: black;
+    font-family: gunrunner;
+    font-style: italic;
+    border: 3px solid silver;
+    border-radius: 50%;
+    width: 6%;
+    padding: 25px;
+    margin: auto;
+    background: white;
+    font-size: 45px
+}
+
+header h2 span {
+	color: orange
+}
+
+header h1 {
+	color: white;
+	font-family: arial;
+	font-size: 50px;
+	margin-top: 50px;
+	text-shadow: 1px 1px 3px gold;
+}
+
+header h3 {
+	color: white;
+    font-size: 29px;
+    font-weight: lighter;
+    font-family: 'Bellefair', serif;
+    text-shadow: 1px 1px 3px gold;
+}
+
+/* ARTICLE */
+
+article {
+	padding: 20px 0;
+	overflow: hidden
+}
+
+article img {
+	border-radius: 10px;
+	width: 350px
+}
+
+.container {
+	width: 1200px;
+	margin: auto
+}
+
+article .left {
+	float: left
+}
+
+article .right {
+	float: right;
+	width: 812px
+}
+
+article h2 {
+	font-family: arial;
+    border-bottom: 1px solid silver;
+    padding-bottom: 10px;
+    font-size: 30px;
+    color: orange;
+}
+
+article p {
+	font-family: arial;
+	font-weight: 600;
+	margin-top: 15px;
+	line-height: 25px
+}
+
+article .left p {
+	text-align: center
+}
+
+/* FOOTER */
+
+footer {
+	background: black;
+	padding: 10px 0;
+}
+
+footer p {
+	color: white;
+	font-family: arial;
+	font-weight: bold;
+	text-align: center;
+	font-size: 15px
+}
